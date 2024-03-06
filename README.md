@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Razvan Vancea
 ==============================
 
-QA Principal - Tech Lead - Trainer - Mentor - Content Creator
+Principal QA - Tech Lead - Trainer - Mentor - Content Creator
 -------------------------------------------------------------
 
 High level experience in test automation architecture, leadership and product quality. Also a [YouTuber](https://www.youtube.com/@LearnwithRV), [Blogger](https://razvanvancea.ro/blog/), Speaker, Career Coach, Mentor, Creator of [IT 20k+ Romanian Community](https://www.facebook.com/groups/234202386913591) and [QA-Practice app](https://qa-practice.netlify.app/).
