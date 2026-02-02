@@ -21,7 +21,7 @@ Hi 👋 My name is Razvan Vancea
 Principal QA - Tech Lead - Trainer - Mentor - Content Creator
 -------------------------------------------------------------
 
-High level experience in test automation architecture, leadership and product quality. Also a [YouTuber](https://www.youtube.com/@LearnwithRV), [Blogger](https://razvanvancea.ro/blog/), Speaker, Career Coach, Mentor, Creator of [IT 24k+ Romanian Community](https://www.facebook.com/groups/234202386913591) and [QA-Practice app](https://qa-practice.razvanvancea.ro/).
+High level experience in test automation architecture, leadership and product quality. Also a [YouTuber](https://www.youtube.com/@LearnwithRV), [Blogger](https://razvanvancea.ro/blog/), [Speaker](https://razvanvancea.ro/talks.html), [Mentor](https://razvanvancea.ro/1on1.html), Creator of [IT 24k+ Romanian Community](https://www.facebook.com/groups/234202386913591) and [QA-Practice app](https://qa-practice.razvanvancea.ro/).
 
 * 🌍  I'm based in Bucharest, Romania
 * 🖥️  Website & CV [https://razvanvancea.ro/](https://razvanvancea.ro/)
