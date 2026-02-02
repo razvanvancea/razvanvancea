@@ -27,7 +27,7 @@ High level experience in test automation architecture, leadership and product qu
 * 🖥️  Website & CV [https://razvanvancea.ro/](https://razvanvancea.ro/)
 * ⚡  YouTube Channel [Learn with RV](https://www.youtube.com/@LearnwithRV)
 * ⚡  Read my [Tech Blog](https://razvanvancea.ro/blog/)
-* ⚡  Creator of testing playground [QA-Practice](https://qa-practice.netlify.app/)
+* ⚡  Creator of testing playground [QA-Practice](https://qa-practice.razvanvancea.ro/)
 * ⚡  [International Speaker](https://razvanvancea.ro/talks.html)
 * 💬  Ask me about QA / Test Automation / Programming / Linux / DevOps
 - 📫 How to reach me: iamqarv@gmail.com
